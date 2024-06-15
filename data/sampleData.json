@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "Item 1",
+      "priceInCents": 1000,
+      "inStock": true,
+      "category": "Category 1"
+    },
+    {
+      "id": 2,
+      "name": "Item 2",
+      "priceInCents": 1500,
+      "inStock": false,
+      "category": "Category 2"
+    },
+    {
+      "id": 3,
+      "name": "Item 3",
+      "priceInCents": 500,
+      "inStock": true,
+      "category": "Category 3"
+    }
+  ]
+  
